@@ -56,7 +56,7 @@ LayerTime brings passive Wi-Fi and Bluetooth awareness, GPS positioning, and off
 
 [Explore LayerTime](https://github.com/mikevan/LayerTime) | [Explore the sensors](https://github.com/mikevan/LayerTime-Sensors)
 
-## MikeVan’s AI Development Toolkit
+## MikeVan’s AI Development Toolkit - Polyglot
 
 <img src="assets/mvadt.png" alt="MikeVan’s AI Development Toolkit logo" width="140">
 
