@@ -1,0 +1,42 @@
+PROJECT REVIVE SOLUTIONS
+Approved by MikeVan, November 11, 2026
+
+MISSION
+Protect lives. Make understanding possible. Prevent exploitation.
+Open source. Fully capable. Built to stay yours.
+
+PERMANENT LOGO FAMILY
+project-revive-solutions: Glasses owl. Corporate identity and shield centerpiece.
+vixen: Fox and Vixen wordmark. Protective threat intelligence.
+polyglot: Toolbox. MikeVan's AI Development Toolkit - Polyglot.
+intellectus: Brain outline with hexagonal semantic nodes. MikeVan's AI Development Toolkit 2.0 - Intellectus.
+vehicle-slm: Car with connected semantic nodes. Vehicle communications understood through relationships and meaning.
+delos: Paired speech bubbles. Remove language as a barrier to understanding.
+layertime: Smartwatch containing the glasses owl. Wearable field technology.
+keep-safe: Glasses owl within an undo arrow. Your project's CTRL-Z.
+cares: Three interlocking green rings. Connected community operations.
+deeptest: Document and checkmark. Find capabilities AI quietly removed.
+untangleit: Crossing amber paths resolving into parallel green paths. Make sprawling code manageable.
+
+MASTERS AND EXPORTS
+Use brand/logos as the source of truth. Stable names have no draft or version suffix.
+SVG masters are supplied for corporate owl, Vehicle-SLM, Delos, LayerTime, Keep-Safe, and CARES.
+Existing approved raster originals are retained for the other marks.
+SVG PNG exports are 1024 by 1024 pixels. Do not upscale raster originals for print.
+The new standalone SVG symbols are production redraws of the approved shield concepts.
+The shield remains a campaign illustration; do not crop small logos out of it for production use.
+
+USE
+Preserve each mark's proportions. Use its black field for contrast.
+Allow clear space of at least one eighth of the image width around each mark.
+Do not add ornaments, shadows, alternative colors, or substitute generic icons.
+Use an accessible product name beside or beneath a small logo.
+Keep the company owl distinct from the LayerTime watch and Keep-Safe undo symbol.
+CARES keeps its established green palette. The other symbols use the established amber and green family.
+No CommentIt logo is approved. Do not invent one in a publication.
+
+PUBLICATION
+github-profile/assets/brand and corporate-site/dist/assets/brand mirror these masters.
+squarespace/homepage-mission.txt is the current complete homepage replacement.
+Older Squarespace homepage files are historical snapshots, not current publication sources.
+GitHub publication does not update Squarespace automatically.

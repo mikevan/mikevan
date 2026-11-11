@@ -26,7 +26,7 @@ Vixen, Vehicle-SLM, and Intellectus connect these outcomes through ontology-base
 
 ## Vixen
 
-<img src="assets/vixen.png" alt="Vixen logo" width="280">
+<img src="assets/brand/vixen.png" alt="Vixen logo" width="280">
 
 ### Democratizing threat intelligence to those who need it most.
 
@@ -57,7 +57,7 @@ The graphic is an illustrative assessment, not a claim of deployment in Ukraine 
 
 ## LayerTime
 
-<img src="assets/layertime-on-black.svg" alt="LayerTime owl on a black background" width="100">
+<img src="assets/brand/layertime.svg" alt="LayerTime smartwatch and owl logo" width="100">
 
 ### Because your wrist can do more than count steps.
 
@@ -75,7 +75,7 @@ LayerTime brings passive Wi-Fi and Bluetooth awareness, GPS positioning, and off
 
 ## MikeVan’s AI Development Toolkit - Polyglot
 
-<img src="assets/mvadt.png" alt="MikeVan’s AI Development Toolkit logo" width="140">
+<img src="assets/brand/polyglot.png" alt="MikeVan’s AI Development Toolkit logo" width="140">
 
 ### Built because AI screwed up my code.
 
@@ -83,9 +83,9 @@ I created the toolkit to keep AI from screwing up my code. When it did, I wrote 
 
 | Tool | What it does for you |
 | --- | --- |
-| <img src="assets/keepsafe.png" alt="Keep-Safe logo" width="85"><br>**[Keep-Safe](https://github.com/mikevan/keepsafe)** | **Your project’s CTRL-Z.** Checkpoint before the prompt. Restore when the AI goes sideways. |
-| <img src="assets/deeptest.png" alt="DeepTest logo" width="85"><br>**[DeepTest](https://github.com/mikevan/deeptest)** | **Find the capabilities your AI quietly removed.** Expose untested code and check whether whole branches of functionality disappeared. |
-| <img src="assets/untangleit.png" alt="UntangleIt logo" width="85"><br>**[UntangleIt](https://github.com/mikevan/untangleit)** | **Make sprawling code manageable.** Break that 100,000-line main.py into smaller, cohesive pieces that are easier to understand and work with. |
+| <img src="assets/brand/keep-safe.png" alt="Keep-Safe logo" width="85"><br>**[Keep-Safe](https://github.com/mikevan/keepsafe)** | **Your project’s CTRL-Z.** Checkpoint before the prompt. Restore when the AI goes sideways. |
+| <img src="assets/brand/deeptest.png" alt="DeepTest logo" width="85"><br>**[DeepTest](https://github.com/mikevan/deeptest)** | **Find the capabilities your AI quietly removed.** Expose untested code and check whether whole branches of functionality disappeared. |
+| <img src="assets/brand/untangleit.png" alt="UntangleIt logo" width="85"><br>**[UntangleIt](https://github.com/mikevan/untangleit)** | **Make sprawling code manageable.** Break that 100,000-line main.py into smaller, cohesive pieces that are easier to understand and work with. |
 
 **Polyglot** carries the toolkit across languages, with Python, TypeScript, and JavaScript support and adapters for React, Vue, Svelte, and Angular. The tools give you evidence and a way back. You make the decisions.
 
@@ -93,7 +93,7 @@ I created the toolkit to keep AI from screwing up my code. When it did, I wrote 
 
 ## MikeVan's AI Development Toolkit 2.0 - Intellectus
 
-<img src="assets/intellectus-logo-v1.png" alt="Intellectus semantic modelling logo" width="120">
+<img src="assets/brand/intellectus.png" alt="Intellectus semantic modelling logo" width="120">
 
 ### What if we could teach AI what our code actually means?
 
@@ -115,6 +115,8 @@ Generate, maintain, and migrate software around the same intent, with the progra
 
 ## Vehicle-SLM
 
+<img src="assets/brand/vehicle-slm.svg" alt="Vehicle-SLM logo" width="120">
+
 ### Understand the vehicle through the language it speaks.
 
 Connect what you want a vehicle to do with the messages its systems understand. Vehicle-SLM uses an **open-source small language model (SLM)** to generate candidate CAN frames from vehicle context, observed traffic, and operator intent.
@@ -127,7 +129,7 @@ The pipeline turns existing DBC signal definitions into structured training exam
 
 ## CARES
 
-<img src="assets/cares.svg" alt="CARES logo" width="130">
+<img src="assets/brand/cares.svg" alt="CARES logo" width="130">
 
 ### Your volunteers came to serve. Let them get back to it.
 
@@ -142,6 +144,8 @@ REGALIA is the Knights of Columbus edition of the same core. CARES began as my w
 [Explore CARES](https://github.com/mikevan/cares) | [Explore the CARES product materials](https://github.com/mikevan/cares-site)
 
 ## Delos
+
+<img src="assets/brand/delos.svg" alt="Delos logo" width="120">
 
 ### Remove language as a barrier to understanding.
 

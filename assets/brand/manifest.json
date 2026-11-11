@@ -1,0 +1,52 @@
+{
+  "approved": "2026-11-11",
+  "approved_by": "MikeVan",
+  "mission": "Protect lives. Make understanding possible. Prevent exploitation.",
+  "logos": {
+    "cares": {
+      "vector": "cares.svg",
+      "raster": "cares.png"
+    },
+    "deeptest": {
+      "vector": null,
+      "raster": "deeptest.png"
+    },
+    "delos": {
+      "vector": "delos.svg",
+      "raster": "delos.png"
+    },
+    "intellectus": {
+      "vector": null,
+      "raster": "intellectus.png"
+    },
+    "keep-safe": {
+      "vector": "keep-safe.svg",
+      "raster": "keep-safe.png"
+    },
+    "layertime": {
+      "vector": "layertime.svg",
+      "raster": "layertime.png"
+    },
+    "polyglot": {
+      "vector": null,
+      "raster": "polyglot.png"
+    },
+    "project-revive-solutions": {
+      "vector": "project-revive-solutions.svg",
+      "raster": "project-revive-solutions.png"
+    },
+    "untangleit": {
+      "vector": null,
+      "raster": "untangleit.png"
+    },
+    "vehicle-slm": {
+      "vector": "vehicle-slm.svg",
+      "raster": "vehicle-slm.png"
+    },
+    "vixen": {
+      "vector": null,
+      "raster": "vixen.png"
+    }
+  },
+  "notes": "Vector marks are production redraws of the approved shield symbols. Existing approved product artwork is preserved. PNG exports are generated from vector masters. No CommentIt logo has been approved."
+}
