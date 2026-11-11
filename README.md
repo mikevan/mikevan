@@ -82,7 +82,7 @@ I created the toolkit to keep AI from screwing up my code. When it did, I wrote 
 
 [Explore the toolkit](https://github.com/mikevan/MADTPackage)
 
-## Intellectus: MikeVan’s AI Development Toolkit 2.0
+## MikeVan’s AI Development Toolkit - Intellectus 2.0
 
 <img src="assets/intellectus-logo-v1.png" alt="Intellectus semantic modelling logo" width="120">
 
