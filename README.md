@@ -6,23 +6,17 @@
 
 **Open source. Fully capable. Built to stay yours.**
 
-## So advanced, it can only be magic.
+## Protect lives. Make understanding possible. Prevent exploitation.
 
-We turn complex systems into capabilities people can use: warnings they can understand, software they can trust, and language they can read.
+Our work confronts those who profit from violence, ignorance, and division. We build open-source tools that help people recognize danger, understand what is happening, and act for themselves.
 
 [Project Revive Solutions](https://www.projectrevivesolutions.com/) | [Explore my repositories](https://github.com/mikevan?tab=repositories)
 
 </div>
 
-> “Any sufficiently advanced technology is indistinguishable from magic.”
->
-> Arthur C. Clarke
+![People protected by the Project Revive Solutions shield](assets/prs-mission-shield-v2.png)
 
-## The kind of innovation I’m after
-
-Nobody has tried to burn me at the stake as a witch or called an exorcist because my technology was sooo scary magical. At least, not yet. But I have seen ideas I built into products more than thirty years ago start showing up in the market today. That is its own kind of validation.
-
-That is the level of innovation I’m after: technology so far beyond what people expect that using it forces them to reconsider what is possible. A clever demonstration is not enough. The capability has to be real, the code open to inspection, and the result undeniable.
+**Human life and understanding are worth defending. That is why this company exists.**
 
 ## We teach open-source AI what the data means.
 
@@ -178,3 +172,15 @@ The company’s purpose is to defend that work against patent abuse, infringemen
 **The company exists to defend the work and its independence. The products exist to serve you.**
 
 [Explore the repositories](https://github.com/mikevan?tab=repositories) | [Project Revive Solutions](https://www.projectrevivesolutions.com/)
+
+
+> “Any sufficiently advanced technology is indistinguishable from magic.”
+>
+> Arthur C. Clarke
+
+## The kind of innovation I’m after
+
+Nobody has tried to burn me at the stake as a witch or called an exorcist because my technology was sooo scary magical. At least, not yet. But I have seen ideas I built into products more than thirty years ago start showing up in the market today. That is its own kind of validation.
+
+That is the level of innovation I’m after: technology so far beyond what people expect that using it forces them to reconsider what is possible. A clever demonstration is not enough. The capability has to be real, the code open to inspection, and the result undeniable.
+
