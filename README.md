@@ -1,6 +1,6 @@
 <div align="center">
 
-# Mike Van Geertruy
+# MikeVan
 
 **Founder, Project Revive Solutions**
 
