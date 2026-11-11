@@ -20,7 +20,7 @@ We turn complex systems into capabilities people can use: warnings they can unde
 
 ## The kind of innovation I’m after
 
-Nobody has tried to burn me at the stake as a witch or called an exorcist. Yet. But I have seen ideas I built into products more than thirty years ago start showing up in the market today. That is its own kind of validation.
+Nobody has tried to burn me at the stake as a witch or called an exorcist because my technology was sooo scary magical. At least, not yet. But I have seen ideas I built into products more than thirty years ago start showing up in the market today. That is its own kind of validation.
 
 That is the level of innovation I’m after: technology so far beyond what people expect that using it forces them to reconsider what is possible. A clever demonstration is not enough. The capability has to be real, the code open to inspection, and the result undeniable.
 
