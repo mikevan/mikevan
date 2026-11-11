@@ -82,15 +82,27 @@ I created the toolkit to keep AI from screwing up my code. When it did, I wrote 
 
 [Explore the toolkit](https://github.com/mikevan/MADTPackage)
 
-## Intellectus
+## Intellectus: MikeVan’s AI Development Toolkit 2.0
 
-<img src="assets/mvadt.png" alt="MikeVan’s AI Development Toolkit family logo" width="120">
+<img src="assets/mvadt.png" alt="MikeVan’s AI Development Toolkit logo" width="120">
 
-### Think in business goals. Let language become an implementation detail.
+### What if we could teach AI what our code actually means?
 
-Intellectus connects the meaning of a program across Python and TypeScript, keeping business intent at the center. Ontology-based training of existing **open-source AI models** maps programming constructs into a shared semantic model.
+Intellectus puts a **language-independent semantic model** at the center of software development: what the software should do, how its parts fit together, what matters, and the problem it solves.
 
-**Working today with Python and TypeScript.** Additional language coverage is in development on the same semantic foundation.
+![Intellectus semantic modelling: intent, meaning, and working applications](assets/intellectus-2-semantic-model.png)
+
+The model captures **values, functions, data flow, effects, relationships, and threads of work**. Ontology-based training of existing **open-source AI models** connects the code to those meanings, creating a foundation beyond predicting what code comes next.
+
+Generate, maintain, and migrate software around the same intent, with the programming language as an implementation detail. This is the direction of **MikeVan’s AI Development Toolkit 2.0**:
+
+- **DeepTest:** Understand behavior, not just paths.
+- **UntangleIt:** Simplify software without changing its meaning.
+- **CommentIt:** Explain code based on evidence.
+
+**Working with Python and TypeScript today.** Additional languages and the broader generation and migration workflow are in development.
+
+**The real value is not the code. It is the model of what we meant to build.**
 
 ## Vehicle-SLM
 
