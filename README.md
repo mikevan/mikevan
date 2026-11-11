@@ -46,6 +46,21 @@ Ontology-based **Low-Rank Adaptation (LoRA)** training connects Wi-Fi and Blueto
 
 Open source. Inspectable code. A warning should not be a luxury.
 
+![Vixen observes evidence, assesses the threat, and communicates a warning](assets/vixen-threat-assessment-v3.png)
+
+**Use AI to protect civilians from AI-enabled terror.** UN investigators documented deliberate Russian drone attacks against civilians in Ukraine. Separate reporting describes an AI-guided Russian drone killing three civilians in Zaporizhzhia. Vixen addresses the defensive side of this threat: use an **open-source AI model** to make complex evidence understandable and communicate a direct threat assessment.
+
+In the illustrated scenario, connectivity is lost and a supported drone sensor reports activity. Vixen correlates events across time, context, and known attack patterns, then communicates an assessment:
+
+> **HIGH THREAT.** Connectivity disruption and drone activity indicate a possible coordinated threat. Increase your threat posture NOW.
+
+The **open-source small language model (SLM)** runs on the cellphone. Local analysis continues without internet access. Ontology-based **Low-Rank Adaptation (LoRA)** training teaches the relationships behind the evidence, while technical detail remains available for post-incident review.
+
+The graphic is an illustrative assessment, not a claim of deployment in Ukraine or a verified sequence of an internet shutdown followed by an AI-drone attack. Detecting a drone signal does not establish whether it carries AI.
+
+[Read about Vixen](https://www.projectrevivesolutions.com/vixen) | [UN findings](https://ukraine.un.org/en/304119-russian-authorities-committed-crimes-against-humanity-targeting-civilian-population-through) | [AI-guided drone strike reporting](https://www.tomshardware.com/tech-industry/drones/nvidia-jetson-orin-guided-the-russian-ai-drone-that-killed-three-civilians-in-ukraine-forensic-teams-say)
+
+
 ## LayerTime
 
 <img src="assets/layertime-on-black.svg" alt="LayerTime owl on a black background" width="100">
