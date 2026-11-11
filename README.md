@@ -84,7 +84,7 @@ I created the toolkit to keep AI from screwing up my code. When it did, I wrote 
 
 ## Intellectus: MikeVan’s AI Development Toolkit 2.0
 
-<img src="assets/mvadt.png" alt="MikeVan’s AI Development Toolkit logo" width="120">
+<img src="assets/intellectus-logo-v1.png" alt="Intellectus semantic modelling logo" width="120">
 
 ### What if we could teach AI what our code actually means?
 
