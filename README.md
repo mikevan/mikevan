@@ -4,6 +4,8 @@
 
 **Founder, Project Revive Solutions**
 
+**Open source. Fully capable. Built to stay yours.**
+
 ## So advanced, it can only be magic.
 
 We turn complex systems into capabilities people can use: warnings they can understand, software they can trust, and language they can read.
@@ -132,8 +134,14 @@ Another early project brought meal planning to a shopping kiosk. Choose a main, 
 
 That pursuit continues through my work today: **make the impossible undeniable.**
 
-## Open by design
+## Open source. Fully capable. Built to stay yours.
 
-All our offerings are open source. The AI models we use are open source. Read the code, examine the reasoning, and help take the work further.
+Project Revive Solutions exists to protect open-source intellectual property and keep these products available to the people who use and build them.
+
+These are complete tools, not stripped-down editions designed to push you toward a paid product. We release the source so you can inspect, use, modify, and contribute under each project’s open-source license.
+
+The company’s purpose is to defend that work against patent abuse, infringement, and attempts to turn shared innovation into proprietary control. All the AI models we use are open source.
+
+**The company exists to defend the work and its independence. The products exist to serve you.**
 
 [Explore the repositories](https://github.com/mikevan?tab=repositories) | [Project Revive Solutions](https://www.projectrevivesolutions.com/)
