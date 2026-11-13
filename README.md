@@ -10,7 +10,9 @@
 
 Our work confronts those who profit from violence, ignorance, and division. We build open-source tools that help people recognize danger, understand what is happening, and act for themselves.
 
-[Project Revive Solutions](https://www.projectrevivesolutions.com/) | [Explore my repositories](https://github.com/mikevan?tab=repositories)
+[Project Revive Solutions](https://www.projectrevivesolutions.com/)
+
+[Explore my repositories](https://github.com/mikevan?tab=repositories)
 
 </div>
 
@@ -24,11 +26,11 @@ Our work confronts those who profit from violence, ignorance, and division. We b
 
 Vixen, Vehicle-SLM, and Intellectus connect these outcomes through ontology-based training of existing **open-source AI models**. We teach the relationships behind the data: which events form an attack pattern, how vehicle messages express intent, and how different programming languages express the same business logic.
 
-## Vixen — our flagship
+## Vixen
 
 <img src="assets/brand/vixen.png" alt="Vixen logo" width="280">
 
-### Democratizing threat intelligence to those who need it most.
+Vixen is the flagship protective intelligence platform of Project Revive Solutions.
 
 A refugee should not need a security operations center or a fortune to understand the danger around them. Vixen provides early warning of targeting in plain language, with technical evidence for post-incident review.
 
@@ -52,26 +54,32 @@ The **open-source small language model (SLM)** runs on the cellphone. Local anal
 
 The graphic is an illustrative assessment, not a claim of deployment in Ukraine or a verified sequence of an internet shutdown followed by an AI-drone attack. Detecting a drone signal does not establish whether it carries AI.
 
-[Read about Vixen](https://www.projectrevivesolutions.com/vixen) | [UN findings](https://ukraine.un.org/en/304119-russian-authorities-committed-crimes-against-humanity-targeting-civilian-population-through) | [AI-guided drone strike reporting](https://www.tomshardware.com/tech-industry/drones/nvidia-jetson-orin-guided-the-russian-ai-drone-that-killed-three-civilians-in-ukraine-forensic-teams-say)
+[Read about Vixen](https://www.projectrevivesolutions.com/vixen)
+
+[UN findings](https://ukraine.un.org/en/304119-russian-authorities-committed-crimes-against-humanity-targeting-civilian-population-through)
+
+[AI-guided drone strike reporting](https://www.tomshardware.com/tech-industry/drones/nvidia-jetson-orin-guided-the-russian-ai-drone-that-killed-three-civilians-in-ukraine-forensic-teams-say)
 
 
 ## Notella
 
-<img src="https://raw.githubusercontent.com/mikevan/Notella/main/brand/concepts/notella-weave-brain-v2-vixen-accents.png" alt="Notella logo: information strands woven into understanding" width="280">
+<img src="https://raw.githubusercontent.com/mikevan/Notella/main/brand/concepts/notella-weave-brain-v2-vixen-accents.png" alt="Notella logo" width="280">
 
-### Teach the meaning. Track the change. Warn in time.
+Notella is the proprietary PRS training tool for teaching a language model to interpret the temporal morphology of a semantic model represented by the Vixen ontology. It applies ontology-guided semantic Low-Rank Adaptation (LoRA) to connect domain meaning, evidence provenance, and temporal evolution within the training curriculum.
 
-**Notella is PRS’s proprietary tool for training a language model to track the time-based morphology of our semantic model, as expressed through the Vixen ontology.**
+The ontology encodes the semantic model through entities, attributes, and typed relationships. Training scenarios express successive states of that model, including changes in observed attributes, the emergence of relationships, and the reinforcement or withdrawal of evidential support. The training objective is semantic interpretation of those transitions: how an evolving configuration changes the assessment of an incident and the protective response it warrants.
 
-The ontology represents what the situation means: the camp, its communications, observed drone signatures, and the relationships between them. Notella’s ontology-guided semantic LoRA training teaches the model to interpret how those relationships and attributes change over time—not simply recognize isolated events.
+In the refugee camp scenario, concurrent Wi-Fi and Bluetooth Low Energy (BLE) flooding establishes communications disruption within a shared operational context. Multiple drone signatures then emerge and increase in signal strength across successive observations. The morphology of the combined evidence indicates an escalating attack threat and produces an evacuation warning.
 
-In the camp-protection scenario, Wi-Fi and BLE flooding coincide with multiple drone signatures growing stronger. The changing pattern drives the assessment from monitoring to an urgent **EVACUATE** warning.
+Vixen remains the flagship application that communicates the threat assessment. Notella supplies the specialized training methodology and curriculum tooling for this approach to temporal semantic interpretation. Model training is centralized; the target small language model performs local inference on the user's phone.
 
-**Vixen is our flagship protective technology. Notella is the specialized training tool behind this approach to understanding change.**
+[![Camp protection scenario demonstrating temporal semantic interpretation](https://raw.githubusercontent.com/mikevan/Notella/main/docs/infographics/ontology-events-correction.png)](https://mikevan.github.io/Notella/infographics/watch.html)
 
-[![Watch the camp-protection scenario](https://raw.githubusercontent.com/mikevan/Notella/main/docs/infographics/ontology-events-correction.png)](https://mikevan.github.io/Notella/infographics/watch.html)
+[Notella repository](https://github.com/mikevan/Notella)
 
-[Explore Notella](https://github.com/mikevan/Notella) | [Watch the animation](https://mikevan.github.io/Notella/infographics/watch.html) | [Read the training tutorials](https://github.com/mikevan/Notella/blob/main/docs/index.md)
+[Camp protection animation](https://mikevan.github.io/Notella/infographics/watch.html)
+
+[Training documentation and tutorials](https://github.com/mikevan/Notella/blob/main/docs/index.md)
 
 ## LayerTime
 
@@ -89,7 +97,9 @@ LayerTime brings passive Wi-Fi and Bluetooth awareness, GPS positioning, and off
 - Get position and grid references without a cloud connection.
 - Choose MeshCore or Meshtastic communications beyond cellular coverage.
 
-[Explore LayerTime](https://github.com/mikevan/LayerTime) | [Explore the sensors](https://github.com/mikevan/LayerTime-Sensors)
+[Explore LayerTime](https://github.com/mikevan/LayerTime)
+
+[Explore the sensors](https://github.com/mikevan/LayerTime-Sensors)
 
 ## MikeVan’s AI Development Toolkit - Polyglot
 
@@ -159,7 +169,9 @@ REGALIA is the Knights of Columbus edition of the same core. CARES began as my w
 
 ![REGALIA, a CARES edition, showing the organizational dashboard](assets/cares-dashboard.png)
 
-[Explore CARES](https://github.com/mikevan/cares) | [Explore the CARES product materials](https://github.com/mikevan/cares-site)
+[Explore CARES](https://github.com/mikevan/cares)
+
+[Explore the CARES product materials](https://github.com/mikevan/cares-site)
 
 ## Delos
 
@@ -193,7 +205,9 @@ The company’s purpose is to defend that work against patent abuse, infringemen
 
 **The company exists to defend the work and its independence. The products exist to serve you.**
 
-[Explore the repositories](https://github.com/mikevan?tab=repositories) | [Project Revive Solutions](https://www.projectrevivesolutions.com/)
+[Explore the repositories](https://github.com/mikevan?tab=repositories)
+
+[Project Revive Solutions](https://www.projectrevivesolutions.com/)
 
 
 > “Any sufficiently advanced technology is indistinguishable from magic.”
