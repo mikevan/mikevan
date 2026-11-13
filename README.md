@@ -24,7 +24,7 @@ Our work confronts those who profit from violence, ignorance, and division. We b
 
 Vixen, Vehicle-SLM, and Intellectus connect these outcomes through ontology-based training of existing **open-source AI models**. We teach the relationships behind the data: which events form an attack pattern, how vehicle messages express intent, and how different programming languages express the same business logic.
 
-## Vixen
+## Vixen — our flagship
 
 <img src="assets/brand/vixen.png" alt="Vixen logo" width="280">
 
@@ -54,6 +54,24 @@ The graphic is an illustrative assessment, not a claim of deployment in Ukraine 
 
 [Read about Vixen](https://www.projectrevivesolutions.com/vixen) | [UN findings](https://ukraine.un.org/en/304119-russian-authorities-committed-crimes-against-humanity-targeting-civilian-population-through) | [AI-guided drone strike reporting](https://www.tomshardware.com/tech-industry/drones/nvidia-jetson-orin-guided-the-russian-ai-drone-that-killed-three-civilians-in-ukraine-forensic-teams-say)
 
+
+## Notella
+
+<img src="https://raw.githubusercontent.com/mikevan/Notella/main/brand/concepts/notella-weave-brain-v2-vixen-accents.png" alt="Notella logo: information strands woven into understanding" width="280">
+
+### Teach the meaning. Track the change. Warn in time.
+
+**Notella is PRS’s proprietary tool for training a language model to track the time-based morphology of our semantic model, as expressed through the Vixen ontology.**
+
+The ontology represents what the situation means: the camp, its communications, observed drone signatures, and the relationships between them. Notella’s ontology-guided semantic LoRA training teaches the model to interpret how those relationships and attributes change over time—not simply recognize isolated events.
+
+In the camp-protection scenario, Wi-Fi and BLE flooding coincide with multiple drone signatures growing stronger. The changing pattern drives the assessment from monitoring to an urgent **EVACUATE** warning.
+
+**Vixen is our flagship protective technology. Notella is the specialized training tool behind this approach to understanding change.**
+
+[![Watch the camp-protection scenario](https://raw.githubusercontent.com/mikevan/Notella/main/docs/infographics/ontology-events-correction.png)](https://mikevan.github.io/Notella/infographics/watch.html)
+
+[Explore Notella](https://github.com/mikevan/Notella) | [Watch the animation](https://mikevan.github.io/Notella/infographics/watch.html) | [Read the training tutorials](https://github.com/mikevan/Notella/blob/main/docs/index.md)
 
 ## LayerTime
 
